@@ -1,0 +1,404 @@
+{
+  "specchietto.webp": [
+    {
+      "src": "responsive/specchietto-320.webp",
+      "width": 320,
+      "height": 213,
+      "bytes": 10526
+    },
+    {
+      "src": "responsive/specchietto-480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 17914
+    },
+    {
+      "src": "responsive/specchietto-720.webp",
+      "width": 720,
+      "height": 480,
+      "bytes": 29496
+    },
+    {
+      "src": "responsive/specchietto-1080.webp",
+      "width": 1080,
+      "height": 720,
+      "bytes": 48970
+    }
+  ],
+  "filtro-olio-cut.webp": [
+    {
+      "src": "responsive/filtro-olio-cut-80.webp",
+      "width": 80,
+      "height": 80,
+      "bytes": 2534
+    },
+    {
+      "src": "responsive/filtro-olio-cut-160.webp",
+      "width": 160,
+      "height": 159,
+      "bytes": 5760
+    },
+    {
+      "src": "responsive/filtro-olio-cut-320.webp",
+      "width": 320,
+      "height": 319,
+      "bytes": 13360
+    },
+    {
+      "src": "responsive/filtro-olio-cut-480.webp",
+      "width": 480,
+      "height": 478,
+      "bytes": 22064
+    },
+    {
+      "src": "responsive/filtro-olio-cut-720.webp",
+      "width": 720,
+      "height": 717,
+      "bytes": 37538
+    },
+    {
+      "src": "responsive/filtro-olio-cut-1080.webp",
+      "width": 1080,
+      "height": 1076,
+      "bytes": 60440
+    }
+  ],
+  "disco-forato-cut.webp": [
+    {
+      "src": "responsive/disco-forato-cut-80.webp",
+      "width": 80,
+      "height": 80,
+      "bytes": 2276
+    },
+    {
+      "src": "responsive/disco-forato-cut-160.webp",
+      "width": 160,
+      "height": 160,
+      "bytes": 5292
+    },
+    {
+      "src": "responsive/disco-forato-cut-320.webp",
+      "width": 320,
+      "height": 320,
+      "bytes": 12500
+    },
+    {
+      "src": "responsive/disco-forato-cut-480.webp",
+      "width": 480,
+      "height": 480,
+      "bytes": 20416
+    },
+    {
+      "src": "responsive/disco-forato-cut-720.webp",
+      "width": 720,
+      "height": 720,
+      "bytes": 32314
+    }
+  ],
+  "candela-cut.webp": [
+    {
+      "src": "responsive/candela-cut-80.webp",
+      "width": 80,
+      "height": 356,
+      "bytes": 5362
+    },
+    {
+      "src": "responsive/candela-cut-160.webp",
+      "width": 160,
+      "height": 712,
+      "bytes": 12624
+    },
+    {
+      "src": "responsive/candela-cut-320.webp",
+      "width": 320,
+      "height": 1425,
+      "bytes": 27688
+    }
+  ],
+  "disco-forato.webp": [
+    {
+      "src": "responsive/disco-forato-320.webp",
+      "width": 320,
+      "height": 214,
+      "bytes": 9372
+    },
+    {
+      "src": "responsive/disco-forato-480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 15402
+    },
+    {
+      "src": "responsive/disco-forato-720.webp",
+      "width": 720,
+      "height": 481,
+      "bytes": 25426
+    },
+    {
+      "src": "responsive/disco-forato-1080.webp",
+      "width": 1080,
+      "height": 721,
+      "bytes": 42684
+    }
+  ],
+  "faro.webp": [
+    {
+      "src": "responsive/faro-320.webp",
+      "width": 320,
+      "height": 480,
+      "bytes": 8580
+    },
+    {
+      "src": "responsive/faro-480.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 15318
+    },
+    {
+      "src": "responsive/faro-720.webp",
+      "width": 720,
+      "height": 1080,
+      "bytes": 26528
+    },
+    {
+      "src": "responsive/faro-1080.webp",
+      "width": 1080,
+      "height": 1620,
+      "bytes": 44068
+    }
+  ],
+  "motore.webp": [
+    {
+      "src": "responsive/motore-320.webp",
+      "width": 320,
+      "height": 213,
+      "bytes": 22868
+    },
+    {
+      "src": "responsive/motore-480.webp",
+      "width": 480,
+      "height": 319,
+      "bytes": 41882
+    },
+    {
+      "src": "responsive/motore-720.webp",
+      "width": 720,
+      "height": 479,
+      "bytes": 73604
+    },
+    {
+      "src": "responsive/motore-1080.webp",
+      "width": 1080,
+      "height": 718,
+      "bytes": 122876
+    }
+  ],
+  "catalizzatori.webp": [
+    {
+      "src": "responsive/catalizzatori-320.webp",
+      "width": 320,
+      "height": 427,
+      "bytes": 29998
+    },
+    {
+      "src": "responsive/catalizzatori-480.webp",
+      "width": 480,
+      "height": 640,
+      "bytes": 55056
+    },
+    {
+      "src": "responsive/catalizzatori-720.webp",
+      "width": 720,
+      "height": 960,
+      "bytes": 102266
+    },
+    {
+      "src": "responsive/catalizzatori-1080.webp",
+      "width": 1080,
+      "height": 1440,
+      "bytes": 180152
+    }
+  ],
+  "officina.webp": [
+    {
+      "src": "responsive/officina-320.webp",
+      "width": 320,
+      "height": 213,
+      "bytes": 13954
+    },
+    {
+      "src": "responsive/officina-480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 28202
+    },
+    {
+      "src": "responsive/officina-720.webp",
+      "width": 720,
+      "height": 480,
+      "bytes": 55302
+    },
+    {
+      "src": "responsive/officina-1080.webp",
+      "width": 1080,
+      "height": 720,
+      "bytes": 101058
+    }
+  ],
+  "meccanico.webp": [
+    {
+      "src": "responsive/meccanico-320.webp",
+      "width": 320,
+      "height": 480,
+      "bytes": 16934
+    },
+    {
+      "src": "responsive/meccanico-480.webp",
+      "width": 480,
+      "height": 720,
+      "bytes": 28440
+    },
+    {
+      "src": "responsive/meccanico-720.webp",
+      "width": 720,
+      "height": 1080,
+      "bytes": 46978
+    },
+    {
+      "src": "responsive/meccanico-1080.webp",
+      "width": 1080,
+      "height": 1620,
+      "bytes": 72754
+    }
+  ],
+  "struttura.webp": [
+    {
+      "src": "responsive/struttura-320.webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 3862
+    },
+    {
+      "src": "responsive/struttura-480.webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 7128
+    },
+    {
+      "src": "responsive/struttura-720.webp",
+      "width": 720,
+      "height": 405,
+      "bytes": 14472
+    },
+    {
+      "src": "responsive/struttura-1080.webp",
+      "width": 1080,
+      "height": 608,
+      "bytes": 30440
+    }
+  ],
+  "sede.webp": [
+    {
+      "src": "responsive/sede-320.webp",
+      "width": 320,
+      "height": 213,
+      "bytes": 20516
+    },
+    {
+      "src": "responsive/sede-480.webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 41114
+    },
+    {
+      "src": "responsive/sede-720.webp",
+      "width": 720,
+      "height": 480,
+      "bytes": 80392
+    },
+    {
+      "src": "responsive/sede-1080.webp",
+      "width": 1080,
+      "height": 720,
+      "bytes": 155156
+    }
+  ],
+  "motore-cinghie-crop.webp": [
+    {
+      "src": "responsive/motore-cinghie-crop-320.webp",
+      "width": 320,
+      "height": 142,
+      "bytes": 8930
+    },
+    {
+      "src": "responsive/motore-cinghie-crop-480.webp",
+      "width": 480,
+      "height": 212,
+      "bytes": 15284
+    },
+    {
+      "src": "responsive/motore-cinghie-crop-720.webp",
+      "width": 720,
+      "height": 319,
+      "bytes": 25540
+    },
+    {
+      "src": "responsive/motore-cinghie-crop-1080.webp",
+      "width": 1080,
+      "height": 478,
+      "bytes": 41246
+    }
+  ],
+  "tergicristallo-crop.webp": [
+    {
+      "src": "responsive/tergicristallo-crop-320.webp",
+      "width": 320,
+      "height": 194,
+      "bytes": 5662
+    },
+    {
+      "src": "responsive/tergicristallo-crop-480.webp",
+      "width": 480,
+      "height": 291,
+      "bytes": 10110
+    },
+    {
+      "src": "responsive/tergicristallo-crop-720.webp",
+      "width": 720,
+      "height": 436,
+      "bytes": 18022
+    },
+    {
+      "src": "responsive/tergicristallo-crop-1080.webp",
+      "width": 1080,
+      "height": 655,
+      "bytes": 30820
+    }
+  ],
+  "candela-wide.webp": [
+    {
+      "src": "responsive/candela-wide-320.webp",
+      "width": 320,
+      "height": 246,
+      "bytes": 2424
+    },
+    {
+      "src": "responsive/candela-wide-480.webp",
+      "width": 480,
+      "height": 369,
+      "bytes": 4286
+    },
+    {
+      "src": "responsive/candela-wide-720.webp",
+      "width": 720,
+      "height": 554,
+      "bytes": 8162
+    },
+    {
+      "src": "responsive/candela-wide-1080.webp",
+      "width": 1080,
+      "height": 831,
+      "bytes": 14374
+    }
+  ]
+}

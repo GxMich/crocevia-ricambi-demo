@@ -1,0 +1,3 @@
+Google Fonts — self-hosted Latin subsets. Licenses in this folder.
+archivo: https://fonts.gstatic.com/s/archivo/v25/k3kQo8UDI-1M0wlSfdnoLg.woff2
+inter: https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2
